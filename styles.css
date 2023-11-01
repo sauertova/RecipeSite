@@ -9,3 +9,7 @@ p {
     font-size: 3 rem;
     color: deeppink;
 }
+
+span {
+    background-color: indigo;
+}
