@@ -1,0 +1,19 @@
+h1 {
+    font-family: cursive;
+    font-size: 5 rem;
+    color: cyan;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3 rem;
+    color: deeppink;
+}
+
+span {
+    background-color: indigo;
+}
+
+p{
+    color: aliceblue;
+}
